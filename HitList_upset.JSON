@@ -1,0 +1,18 @@
+{
+	"file": "https://www.dropbox.com/s/bxyyatfzy23q48a/HitList_upset.csv",
+	"name": "Cell cycle hits",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Array.ORF" },
+		{ "type": "float", "index": 1, "name": "rep1" },
+		{ "type": "float", "index": 2, "name": "rep2" },
+		{ "type": "float", "index": 3, "name": "FY5" },
+		{ "type": "float", "index": 4, "name": "log.mean.mol" },
+		{ "type": "float", "index": 6, "name": "log.median.mol" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 6, "end": 10 }
+	]
+}
